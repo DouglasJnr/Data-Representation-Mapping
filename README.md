@@ -25,7 +25,7 @@ cat output.txt
 ## Test Results
 Summary: 51/51 tests passed
 
-<img src="images/testcases.png" width="600" height="600"/>
+<img src="images/testcases1.png" width="600" height="600"/>
 
 
 ## How It Works
